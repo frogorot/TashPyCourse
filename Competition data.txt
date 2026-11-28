@@ -1,0 +1,11 @@
+Timur
+5.65 s ± 641 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+6.17 s ± 51.2 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+
+Eldar
+8.32 s ± 62.7 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+8.55 s ± 182 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+
+Oscar
+10.5 s ± 894 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+10.5 s ± 64.5 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
